@@ -4,13 +4,13 @@ To-Do_Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Flutter App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td></td>
+     </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/121105558/210787977-9942a72b-bb01-43c0-9224-3ac00a3aad67.JPG" style="width:200px;"></td>
+    </tr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
